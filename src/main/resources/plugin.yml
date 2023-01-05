@@ -1,0 +1,4 @@
+name: MangoMC
+version: '${project.version}'
+main: me.f0reach.mangomc.Main
+api-version: 1.19
